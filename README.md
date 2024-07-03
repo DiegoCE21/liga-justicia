@@ -9,5 +9,5 @@ Pueden hacer lo que quieran...
 ### Actualizado desde GitHub
 Mensaje editado y creado desde GitHub
 
-### Cambios nuevos
+### Cambios nuevos desde GitHub
 Estos cambios son nuevos
